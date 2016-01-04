@@ -2,7 +2,9 @@
 Group project for IGME.602
 
 Theoretical Analysis of Gameplay and Rhetoric in Pixalto
+
 Stein Astor Fernandez
+
 Rochester Institute of Technology, New York
 
 Developers
