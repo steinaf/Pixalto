@@ -17,19 +17,25 @@ Stein Astor Fernandez: Level Design, Game Design
 
 
 Theoretical Analysis of Gameplay and Rhetoric in Pixalto
+
 Pixalto is a 2D side scrolling game where the player must maneuver a character through a series of levels, interacting with a variety of non player characters (NPCs) as they traverse the world.  This paper explores the concepts presented in Pixalto, with a focus on the rhetorical representation of interpersonal relationships and meaningful play. 
 
 Rules and Mechanics
+
 Levels and Characters
+
 The player is represented by a green pixelated square, shaded with a gradient. The world is a setting where the player traverses levels populated by randomly coloured NPCs that are also represented by pixelated by squares that can be of any random colour but green. NPCs are randomly hostile (will charge at the player when he/she approaches within a certain distance and continues charging if the player remains within this distance), neutral (will wander around normally, ignoring the player) or timid (will flee from the player when he/she approaches within a certain distance). The player will also encounter a variety of platforming puzzles throughout the game. 
 
 Mechanics
+
 The objective of the game is to reach the end of the game. The NPCs and platforming puzzles will hinder the player from doing so and must be overcome. The player possesses the ability to fling or shoot a pixel at NPCs to defeat them. In doing so, the player’s character is visibly depleted of this pixel, becoming smaller. The player character possesses a limited number of pixels. Players also lose pixels on contact with NPCs of any kind. If the player character runs out of pixels, it dies and respawns at the beginning of the level (with the same number of pixels it had at that point originally). 
 
 It is possible to get past the NPCs without defeating them. Initially, we only had two methods of dealing with NPCs - avoidance or combat. However, this created an unintentional rhetoric of those being the only two methods of interpersonal interaction. To solve this, we created an additional mechanic: if a player remains close enough to a neutral or timid NPC for a few seconds, the NPC shifts colours partially to mirror that of the player. These NPCs will no longer hurt the player upon contact. Upon successfully overcoming all NPCs and puzzles, reaching the end of a level will inform the player of how many NPCs remain alive in the level and grant them pixels for each NPC that remains alive. NPCs that have been “befriended” will award bonus pixels. The pixels the player receives are coloured in the same manner as the NPC that granted it to them. The appearance of the player thus changes at the end of each level. In the next level, the player now starts with the additional differently coloured pixels gained at the end of the previous level. 
 
 Gameplay and Interactivity
+
 Procedural Rhetoric
+
 Bogost (2010) defines procedural rhetoric as “the practice of using processes persuasively” (p.28). In procedural rhetoric, arguments are created through the authorship of governing rules of behaviour. The advantage of procedural rhetoric lies in its unique capability to express and make claims about how things work (Bogost, 2010, p.29). In addition, procedural rhetoric can take advantage of the vividness of visual media without its limited dialectic capability (Bogost, 2010, p.29).
 
 Video games often do not have an intentional rhetoric, or make their arguments in a non procedural fashion. However, video games are especially suited to procedural rhetoric due to their innate procedural intensiveness that is aimed at expression rather than utility, as opposed to software in general. This, combined with their interactivity, make them one of the ideal media with which to express rhetoric procedurally (Bogost, 2010, p.45).
@@ -50,6 +56,7 @@ Timid NPCs can be befriended as well, by trapping them against a wall and approa
 At the end of each level, the player is rewarded for the number of NPCs left alive in the form of pixels from each remaining NPC being added to you. Through your travels and experience in interacting with others, you have grown as a person. Befriended NPCs award bonus pixels - friendships may not pay off immediately, but in the long run they help you become a better person. 
 
 Meaningful Play
+
 Salen and Zimmerman offer two definitions for meaningful play. The first, evaluative definition reads : “Meaningful play in a game emerges from the relationship between player action and system outcome; it is the process by which a player takes action within the designed system of a game and the system responds to the action. The meaning of an action in a game resides in the relationship between action and outcome” (Salen & Zimmerman, 2003, ch.3 p.4). 
 The second, descriptive definition reads: “Meaningful play occurs when the relationships between actions and outcomes in a game are both discernable and integrated into the larger context of the game. Creating meaningful play is the goal of successful game design” (Salen and Zimmerman, 2003, ch.3 p.4).
 
@@ -72,7 +79,9 @@ While it is important for the player to be allowed to discover the long-term con
 In conclusion, we have attempted to create compelling gameplay through meaningful choices - the player is encouraged to conserve pixels and weigh each situation carefully as well as their larger objective when deciding upon the appropriate course of action. 
 
 Character
+
 The Body, Imitation and Interpersonal Space
+
 Isbister (2006) mentions that a way people display relationships through their bodies is imitation, mimicking the postures and movements of those around them (p.165). She regards it as a “powerful, missed design opportunity”(p.175). Though games like Spore (2008) have since been released, this is still a relatively unexplored design space. Isbister (2006) also talks about interpersonal distance - “One way to begin considering how bodies work in social interaction is to consider what proximity says about relationship” (p.162). In Pixalto, we have tried to embody the principles of both imitation and interpersonal distance in social interaction.
 
 Upon encountering any NPC, the player must first consider their distance from it. Every NPC is a potential threat, and approaching one is always an exercise in caution. Hostile NPCs turn active when the player approaches within a certain distance, reacting aggressively to their personal space being encroached upon, forcing the player to find a way to avoid or combat them. Timid NPCs also react to their personal space being encroached upon, but by fleeing from the player. Neutral NPCs do not resort to either tactic when approached, but rather continue with their normal movement pattern, albeit slightly slowed as a cautious response to the proximity of the player. With each type of NPC, we have attempted to convey a distinct personality for each type of character through their body movement and the way they deal with interpersonal distance. To give further unique identity to each NPC, their colours are randomized with no bearing on personality type and unique movement patterns that they follow before being approached by the player. 
@@ -87,6 +96,7 @@ Through the changing bodies, movements and interpersonal distances of both the p
 
 
 Conclusion
+
 Pixalto is a 2D Platformer designed with the intention of rhetorically showcasing interpersonal interactions while simultaneously creating compelling gameplay with meaningful decisions. 
 Through creating gameplay procedures reflective of real life interpersonal interactions and representing characters using Isbister’s techniques focusing on the body, we form our intended procedural rhetoric.   
 Through creating and adequately presenting meaningful, interesting choices with discernible and integrated outcomes for the player to discover and act upon, we arrive at meaningful play. 
